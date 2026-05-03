@@ -1,0 +1,30 @@
+split_hotkey = "num 1"
+reset_hotkey = "num 3"
+undo_split_hotkey = ""
+skip_split_hotkey = ""
+pause_hotkey = ""
+screenshot_hotkey = "num 9"
+toggle_auto_reset_image_hotkey = "num 8"
+fps_limit = 60
+live_capture_region = true
+capture_method = "WINDOWS_GRAPHICS_CAPTURE"
+capture_device_id = 0
+capture_device_name = ""
+default_comparison_method = 0
+default_similarity_threshold = 0.9500000000000001
+default_delay_time = 0
+default_pause_time = 0.5
+loop_splits = false
+start_also_resets = false
+enable_auto_reset = true
+split_image_directory = "C:/Users/Ossie Gray/Documents/AutoSplit.v2.3.2.for.windows.Python.3.13/Autosplit Images/Split by Zones"
+screenshot_directory = "C:/Users/Ossie Gray/Documents/AutoSplit.v2.3.2.for.windows.Python.3.13/Autosplit Images"
+open_screenshot = true
+screenshot_on = []
+captured_window_title = "Nubby's Number Factory"
+
+[capture_region]
+x = 1313
+y = 325
+width = 140
+height = 116
