@@ -17,14 +17,14 @@ default_pause_time = 0.5
 loop_splits = false
 start_also_resets = false
 enable_auto_reset = true
-split_image_directory = "C:/Users"
-screenshot_directory = "C:/Users"
+split_image_directory = ""
+screenshot_directory = ""
 open_screenshot = true
 screenshot_on = []
 captured_window_title = "Nubby's Number Factory"
 
 [capture_region]
-x = 1313
-y = 325
-width = 140
-height = 116
+x = 1288
+y = 741
+width = 123
+height = 37

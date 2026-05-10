@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Nubby's Number Factory</GameName>
+  <CategoryName>9999x Restock%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>7</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/06/2026 21:04:48" isStartedSynced="True" ended="05/06/2026 21:04:58" isEndedSynced="True" />
+    <Attempt id="2" started="05/06/2026 21:05:00" isStartedSynced="True" ended="05/06/2026 21:05:02" isEndedSynced="True" />
+    <Attempt id="3" started="05/06/2026 21:05:20" isStartedSynced="True" ended="05/06/2026 21:05:22" isEndedSynced="True" />
+    <Attempt id="4" started="05/06/2026 21:05:42" isStartedSynced="True" ended="05/06/2026 21:05:44" isEndedSynced="True" />
+    <Attempt id="5" started="05/06/2026 21:06:26" isStartedSynced="True" ended="05/06/2026 21:10:43" isEndedSynced="True" />
+    <Attempt id="6" started="05/06/2026 21:13:59" isStartedSynced="True" ended="05/06/2026 21:14:00" isEndedSynced="True" />
+    <Attempt id="7" started="05/06/2026 21:14:01" isStartedSynced="True" ended="05/06/2026 21:15:39" isEndedSynced="True">
+      <RealTime>00:01:37.9448696</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>
+      </Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:37.9448696</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:37.9448696</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="7">
+          <RealTime>00:01:37.9448696</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
